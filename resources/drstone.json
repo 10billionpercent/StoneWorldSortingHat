@@ -1,0 +1,80 @@
+[
+    {
+        "characterName": "Ryuusui",
+        "description": "Visionary with a flair for the dramatic. \n You dream big and act boldly. Confidence is your compass,\nand you inspire others with your fearless ambition and \nlarger-than-life charm.",
+        "lowerBound": -100,
+        "upperBound": -81,
+"image":"file:resources/images/Ryuusui.jpg"
+
+    },
+    {
+        "characterName": "Gen",
+        "description": "Master of words and perception. \nYou read the room before you speak—and when you do, people listen. \nClever and calculated, you’re the mind behind the curtain, \nalways three moves ahead.",
+        "lowerBound": -80,
+        "upperBound": -61,
+"image":"file:resources/images/Gen.jpg"
+
+    },
+    {
+        "characterName": "Ukyo",
+        "description": "Calm, precise, and perceptive.\nYou’re the silent observer with unmatched insight. Rational and fair,\nyou weigh every decision carefully and speak only when it \ntruly matters.",
+        "lowerBound": -60,
+        "upperBound": -41,
+"image":"file:resources/images/Ukyo.jpg"
+    },
+    {
+        "characterName": "Yuzuriha",
+        "description": "Quiet strength, steady hands. \nYou don’t seek the spotlight, but your presence holds everything together. \nPatient, kind, and endlessly capable—you make the \nimpossible look easy.",
+        "lowerBound": -40,
+        "upperBound": -21,
+"image":"file:resources/images/Yuzuriha.jpg"
+
+    },
+    {
+        "characterName": "Taiju",
+        "description": "Endless energy, unwavering loyalty. \nYou lead with heart and back it up with action. Obstacles don’t shake you—\nif anything, they fire you up. Your strength?\nIt’s in never giving up.",
+        "lowerBound": -20,
+        "upperBound": -1,
+"image":"file:resources/images/Taiju.jpg"
+
+    },
+    {
+        "characterName": "Senku",
+        "description": "Pure logic, relentless drive. \nYou’re the strategist who stays five steps ahead. Innovation is your language, \nand you never let emotions cloud the mission. Calm, sharp, and unstoppable.",
+        "lowerBound": 0,
+        "upperBound": 20,
+"image":"file:resources/images/Senku.jpg"
+
+    },
+    {
+        "characterName": "Chrome",
+        "description": "Curious mind, fearless spirit. \nYou chase knowledge with wild enthusiasm and a hands-on approach. \nMistakes? Just part of the process. You learn by doing—and it pays off.",
+        "lowerBound": 21,
+        "upperBound": 40,
+        "image":"file:resources/images/Chrome.jpg"
+    },
+    {
+        "characterName": "Suika",
+        "description": "Subtle, observant, and underestimated.\nYou don’t need to be loud to be powerful. With quiet determination and \nclever insight, you notice what others miss—and make a big difference.",
+        "lowerBound": 41,
+        "upperBound": 60,
+"image":"file:resources/images/Suika.jpg"
+
+    },
+    {
+        "characterName": "Kohaku",
+        "description": "Fierce loyalty, unshakable will.\nYou’re a force of nature. Brave, direct, and fiercely protective of those \nyou care about. You lead with strength and fight with purpose.",
+        "lowerBound": 61,
+        "upperBound": 80,
+"image":"file:resources/images/Kohaku.jpg"
+
+    },
+    {
+        "characterName": "Tsukasa",
+        "description": "Strength balanced by principle. \nYou move with calm authority and fight for what you believe in. Power isn’t just \nphysical for you—it’s grounded in purpose and integrity.",
+        "lowerBound": 81,
+        "upperBound": 100,
+"image":"file:resources/images/Tsukasa.jpg"
+
+    }
+]
